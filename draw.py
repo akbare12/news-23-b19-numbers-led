@@ -199,7 +199,7 @@ CARDS = [
     (8, "NEW YORK · SPORT", "REPORTED", "Skubal signs $450M Mets deal",
      "Two-time Cy Young winner, nine years — largest ever for a pitcher.", "ESPN", (28, 110, 44)),
     (11, "SAN FRANCISCO · TECH", "REPORTED", "Anthropic IPO: $107.3B, largest ever",
-     "Claude maker debuts at $97.17 after pricing at $88 a share.", "Bloomberg", (96, 48, 140)),
+     "Claude maker debuts at $97.17 after pricing at $83 a share.", "Bloomberg", (96, 48, 140)),
     (12, "WARSAW · WAR", "CLAIM", "Poland: 3 Russian missiles crossed airspace",
      "Kyiv says three Kh-101s entered Poland on Friday; Tusk: provocation.", "AP", RED),
     (13, "SPACE · SECURITY", "CLAIM", "Intel warns of Russian nuclear satellite",
